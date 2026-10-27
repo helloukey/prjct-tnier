@@ -1,0 +1,5 @@
+# Used by Vercel for the Python function in api/. Keep in sync with backend/requirements.txt.
+fastapi==0.115.6
+uvicorn[standard]==0.34.0
+pandas==2.2.3
+httpx==0.28.1
