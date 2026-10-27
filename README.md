@@ -5,7 +5,7 @@ generation forecast available at decision time** and **how accurate those foreca
 purchase volumes can account for the expected error. Scope: GB national wind (Elexon `FUELHH` and
 `WINDFOR`), purchase decisions made in January 2026.
 
-- **Live app:** _TBD (Vercel)_
+- **Live app:** https://prjct-tnier.vercel.app
 - **Plan, domain notes and findings:** [docs/PLAN.md](docs/PLAN.md)
 
 ## What it does

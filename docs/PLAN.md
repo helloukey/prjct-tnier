@@ -92,7 +92,7 @@ React (Vite, TS, Recharts) ──/api──▶ FastAPI (Python) ──▶ pandas
 | 6 | Polish: copy review, "How to read this page" panel, code-split the chart bundle | 1h | ✅ |
 | 6b | Docker build check (+ backend healthcheck gating nginx start) | 0.25h | ✅ |
 | 7a | CI: GitHub Actions (ruff lint+format, pytest, oxlint, build, Docker smoke test) | 0.5h | ✅ |
-| 7b | Deploy to Vercel, README live link | 0.5h | ⬜ |
+| 7b | Deploy to Vercel, README live link | 0.5h | ✅ |
 | 8 | Video: customer pitch (≤5 min) and tech-lead walkthrough (≤5 min) | 1.5h | ⬜ |
 
 ## 5. Deliverables checklist
